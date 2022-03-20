@@ -7,7 +7,7 @@
 
 [![GitHub Waltrus](https://img.shields.io/github/followers/Waltrus?label=follow&style=social)](https://github.com/Waltrus) 
 ![profile count](https://komarev.com/ghpvc/?username=Waltrus&color=green)&nbsp;
-[![GitHub Waltrus](https://img.shields.io/github/followers/Waltrus?label=follow&style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff)](https://github.com/Waltrus)
+[![GitHub Waltrus](https://img.shields.io/github/followers/Waltrus?label=follow&style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff&styleColor=ffffff)](https://github.com/Waltrus)
 
 <h1 align="center"> General Information </h1>
 <h3 align="center"> 🛠 Languages: </h3>
