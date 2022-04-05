@@ -5,6 +5,8 @@
 <a herf="https://instagram.com/06.burak___" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
 <a herf="https://www.youtube.com/channel/UCJ5kenVv3TZM9L3HkRJ71cg" target="_blank"> <img src="https://img.shields.io/badge/YOUTUBE%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> &nbsp;
 
+<h3 align="left">Github Information:</h3>
+
 [![GitHub Waltrus](https://img.shields.io/github/followers/Waltrus?label=follow&style=social)](https://github.com/Waltrus) 
 ![profile count](https://komarev.com/ghpvc/?username=Waltrus&color=green)&nbsp;
 [![GitHub Waltrus](https://img.shields.io/github/followers/Waltrus?label=follow&style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff&styleColor=ffffff)](https://github.com/Waltrus)
