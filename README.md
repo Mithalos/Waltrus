@@ -45,6 +45,6 @@
  <h1 align="center">My GitHub Stats :bar_chart:</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mithalos&show_icons=true&locale=en&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?Mithalos=Mithalos&show_icons=true&locale=en&layout=compact&theme=radical" height="180"> </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithalos&show_icons=true&locale=en&layout=compact&theme=radical" height="180"> </p>
 
 <a href="https://github.com/Mithalos/github-readme-activity-graph"><img alt="Mithalos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mithalos&bg_color=0D1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true" /></a>
