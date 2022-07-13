@@ -7,8 +7,8 @@
 
 <h3 align="center">Github Information:</h3>
 
-[![GitHub Waltrus](https://img.shields.io/github/followers/Waltrus?label=follow&style=social)](https://github.com/Waltrus) 
-![profile count](https://komarev.com/ghpvc/?username=Waltrus&color=green)&nbsp;
+[![GitHub Mithalos](https://img.shields.io/github/followers/Mithalos?label=follow&style=social)](https://github.com/Mithalos) 
+![profile count](https://komarev.com/ghpvc/?username=Mithalos&color=green)&nbsp;
 
 <h1 align="center"> General Information </h1>
 <h3 align="center"> 🛠 Languages: </h3>
@@ -44,7 +44,7 @@
 
  <h1 align="center">My GitHub Stats :bar_chart:</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltrus&show_icons=true&locale=en&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waltrus&show_icons=true&locale=en&layout=compact&theme=radical" height="180"> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithalos&show_icons=true&locale=en&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?Mithalos=Mithalos&show_icons=true&locale=en&layout=compact&theme=radical" height="180"> </p>
 
-<a href="https://github.com/Waltrus/github-readme-activity-graph"><img alt="Waltrus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Waltrus&bg_color=0D1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Mithalos/github-readme-activity-graph"><img alt="Mithalos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mithalos&bg_color=0D1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true" /></a>
